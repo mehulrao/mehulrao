@@ -1,1 +1,1 @@
-![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehulrao&show_icons=true&theme=github_dark&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp; ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulrao&langs_count=5)
+![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehulrao&show_icons=true&theme=github_dark&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp; ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulrao&langs_count=4)
